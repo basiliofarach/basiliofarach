@@ -7,7 +7,10 @@
 ### Recent Activity :hourglass:
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=basiliofarach&theme=react-dark)  
 
-### Most relevant project :books:
+### Most relevant projects :books:
 <a href="https://github.com/basiliofarach/covid-webscraper-map">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=basiliofarach&repo=covid-webscraper-map" />
+</a>
+<a href="https://github.com/basiliofarach/multi-docker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=basiliofarach&repo=multi-docker" />
 </a>
