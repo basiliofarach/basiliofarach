@@ -5,7 +5,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basiliofarach&exclude_repo=covid-webscraper-map&show_icons=true&theme=vision-friendly-dark" />
 
 ### Recent Activity :hourglass:
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=basiliofarach&theme=react-dark)  
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=basiliofarach&theme=react-dark)  
 
 ### Most relevant projects :books:
 <a href="https://github.com/basiliofarach/covid-webscraper-map">
